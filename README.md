@@ -10,7 +10,7 @@
 
 # :bell: Visit the site
 
-[Go to Site](https://overwatch-charcter-selec.netlify.app/)
+[Go to Site](https://overwatch-charcter-selec.netlify.app/ "Open page")
 
 ## 🧐 About
 
